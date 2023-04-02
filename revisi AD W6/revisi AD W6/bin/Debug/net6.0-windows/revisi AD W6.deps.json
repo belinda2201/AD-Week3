@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "revisi AD W6/1.0.0": {
+        "runtime": {
+          "revisi AD W6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "revisi AD W6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
